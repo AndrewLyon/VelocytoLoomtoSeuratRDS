@@ -24,7 +24,7 @@
 
 #Your conda environement will need to have r-base r-seurat r-velocyto.r and r-devtools installed:
 
-#conda install r-seurat r-velocyto.r r-devtools
+#conda install r-seurat r-velocyto.r r-devtools r-r.utils
 
 ##open R in your conda environment with:
 
