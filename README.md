@@ -24,7 +24,7 @@
 
 #Your conda environement will need to have libopenblas r-base r-seurat r-velocyto.r and r-devtools installed:
 
-#conda install libopenblas r-seurat r-velocyto.r r-devtools r-r.utils
+#conda install libopenblas r-seurat r-velocyto.r r-devtools r-r.utils r-rcpparmadillo
 
 ##open R in your conda environment with:
 
