@@ -32,7 +32,7 @@
 
 #This script uses SeuratWrappers and Velocito.R to convert velocyto output loom into seurat rds
 
-#devtools::install_github(https://github.com/satijalab/seurat-wrappers) to install seuratwrappers
+#devtools::install_github("https://github.com/satijalab/seurat-wrappers") to install seuratwrappers
 
 ##Call the packages in R for use:
 
