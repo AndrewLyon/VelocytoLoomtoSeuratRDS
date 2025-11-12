@@ -22,9 +22,9 @@
 
 #conda config --set channel_priority flexible #strict will use the top channel in your channel list for everything
 
-#Your conda environement will need to have r-base r-seurat r-velocyto.r and r-devtools installed:
+#Your conda environement will need to have libopenblas r-base r-seurat r-velocyto.r and r-devtools installed:
 
-#conda install r-seurat r-velocyto.r r-devtools r-r.utils
+#conda install libopenblas r-seurat r-velocyto.r r-devtools r-r.utils
 
 ##open R in your conda environment with:
 
